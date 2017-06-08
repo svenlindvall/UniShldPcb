@@ -1,0 +1,603 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module fritzingVersion="0.9.3b.04.19.5c895d327c44a3114e5fcc9d8260daf0cbb52806" icon="Search.png" search="header">
+    <title>Search</title>
+    <instances>
+        <instance moduleIdRef="Modkit Shield-v1a" modelIndex="7122" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Modkit Shield-v1a.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Joystick-Breakout-v11" modelIndex="7123" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Joystick-Breakout-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="quadstep-v12" modelIndex="7124" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/quadstep-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M10-2MMSMD" modelIndex="7125" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m10-2mmsmd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Color-LCD-Shield-v14" modelIndex="7126" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Color-LCD-Shield-v14.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="hirose-df13-8p-125h" modelIndex="7127" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/hirose-df13-8p-125h_4.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="hirose-df13-2p-125h" modelIndex="7128" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/hirose-df13-2p-125h_42.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="TB6612FNG Breakout v11" modelIndex="7129" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Motor Driver 1A Dual TB6612FNG v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino Pro" modelIndex="7130" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Arduino_Pro.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="intel_edison_minibreakout_bottom_fix" modelIndex="7131" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/intel_edison_minibreakout-bottom_fix.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M03-" modelIndex="7132" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m03-.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Gizwits_WiFi_Witty_ESP_12F" modelIndex="7133" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Gizwits_WiFi_Witty_ESP_12F.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="10x2-Epaper-Breakout-Board-v11" modelIndex="7134" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/10x2-Epaper-Breakout-Board-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="hirose-df13-6p-125h" modelIndex="7135" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/hirose-df13-6p-125h_18.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M11-SMD" modelIndex="7136" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m11-smd.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M16-MACHIINE-PIN_LOCK" modelIndex="7137" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m16-machiine-pin_lock.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M05X2-SHD_SMD" modelIndex="7138" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m05x2-shd_smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ProtoShield-v25" modelIndex="7139" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/ProtoShield-v25.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="hirose-df13-7p-125h" modelIndex="7140" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/hirose-df13-7p-125h_10.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Mega_Shield-v13" modelIndex="7141" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Mega_Shield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M40-OFFSET" modelIndex="7142" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m40-offset.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="STM32_Nucleo_board" modelIndex="7143" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/STM32_Nucleo_board.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="AlphaNumericDisplay-v13" modelIndex="7144" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/AlphaNumericDisplay-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M05X2-RA" modelIndex="7145" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m05x2-ra.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-JUMPER-2-OLD-SMD-NO" modelIndex="7146" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-passives-jumper-2-old-smd-no.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M10X2-2X10_LOCK" modelIndex="7147" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m10x2-2x10_lock.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arduino_Uno_Rev3(fix)" modelIndex="7148" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/arduino_Uno_Rev3(fix).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="HIH-4030_Breakout-v10" modelIndex="7149" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/HIH-4030_Breakout-v10.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-FTDI_BASIC-PTH" modelIndex="7150" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-ftdi_basic-pth.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53261-0819_smd-8p-h" modelIndex="7151" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Molex-Picoblade-53261-0819_smd-8p-h_4.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53261-0619_smd-6p-h" modelIndex="7152" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Molex-Picoblade-53261-0619_smd-6p-h_16.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Breadboard Power Supply - SMD v12" modelIndex="7153" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Breadboard Power Supply - SMD v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53261-0419_smd-4p-h" modelIndex="7154" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Molex-Picoblade-53261-0419_smd-4p-h_32.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-JUMPER-2-SMD-NC" modelIndex="7155" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-passives-jumper-2-smd-nc.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-AVR_SPI_PROG2-PTH" modelIndex="7156" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-avr_spi_prog2-pth.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="jlpcb-089" modelIndex="7157" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/jlpcb-089.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M06-SMD-FEMALE-V2" modelIndex="7158" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m06-smd-female-v2.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M02-3.5MM_LOCK" modelIndex="7159" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m02-3.5mm_lock.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M11-SMD_NO_HOLES" modelIndex="7160" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m11-smd_no_holes.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ISD1932 Breakout-v11" modelIndex="7161" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/ISD1932 Breakout-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RN41-v14" modelIndex="7162" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/RN41-v14.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arduino_uno(rev3)-icsp_only" modelIndex="7163" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/arduino_uno(rev3)-icsp(1).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="JST-B3P-VH" modelIndex="7164" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/JST-B3P-VH.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="WeMos_D1_Mini_Motor_Shield_no_headers" modelIndex="7165" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/WeMos-D1-mini-Motor-Shield-no-headers.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M05X2-PTH" modelIndex="7166" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m05x2-pth.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M06-SMD-STRAIGHT" modelIndex="7167" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m06-smd-straight.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino DUE V02b" modelIndex="7168" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Arduino_DUE_V02b.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="WeMos_D1_Mini_Micro_SD_Shield_no_headers" modelIndex="7169" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/WeMos-D1-mini-Micro-SD-Shield-no-headers.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-JUMPER-2-SMD-NO" modelIndex="7170" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-passives-jumper-2-smd-no.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M08-SMD-COMBO" modelIndex="7171" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m08-smd-combo.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arduinoXbeere" modelIndex="7172" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/arduinoXbeere.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ad5330 breakout-v11" modelIndex="7173" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/ad5330 breakout-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_ADK_MEGA_2560-Rev3(iscp)" modelIndex="7174" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Arduino_ADK_MEGA_2560-Rev3(icsp).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M06-RA" modelIndex="7175" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m06-ra.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M02--JST-2-PTH-NO_SILK" modelIndex="7176" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m02--jst-2-pth-no_silk.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="WeMos_D1_mini_fixed" modelIndex="7177" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/WeMos-D1-mini-female-headers-above_fixed.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M05X2-RAF" modelIndex="7178" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m05x2-raf.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="WeMos_D1_Mini_OLED_Shield_no_headers" modelIndex="7179" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/WeMos-D1-mini-OLED-Shield-no-headers.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="hirose-df13-4p-125h" modelIndex="7180" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/hirose-df13-4p-125h_8.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M04-SCREW_LOCK" modelIndex="7181" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m04-screw_lock.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="NCP1400_5V_Step-Up_v11" modelIndex="7182" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/NCP1400_5V_Step-Up_v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M04-POLAR_LOCK" modelIndex="7183" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m04-polar_lock.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M01-SMD" modelIndex="7184" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m01-smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M03-JST-PTH" modelIndex="7185" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m03-jst-pth.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="screwshield-v15" modelIndex="7186" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/screwshield-v15.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_bt07" modelIndex="7187" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Arduino_bt07.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="AVR_SPI_PROG-PTH" modelIndex="7188" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/avr_spi_prog-pth.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="DRV8825_breakout" modelIndex="7189" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/DRV8825_breakout.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53398-0471_smd-4p-v" modelIndex="7190" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Molex-Picoblade-53398-0471_smd-4p-v_16.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M06-SMD" modelIndex="7191" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m06-smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="hirose-df13-5p-125h" modelIndex="7192" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/hirose-df13-5p-125h_26.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="hirose-df13-7p-125v" modelIndex="7193" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/hirose-df13-7p-125v_9.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="RFID_USB_Reader-v14" modelIndex="7194" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/RFID_USB_Reader-v14.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Shield_Eth06-PoE" modelIndex="7195" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Shield_Eth06-PoE.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="intel-arduino_galileo-(simple)" modelIndex="7196" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/intel-arduino_galileo-simple.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="sx1509-breakout" modelIndex="7197" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sx1509-breakout.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M01--SMTSO-256-ET" modelIndex="7198" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m01--smtso-256-et.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="hirose-df13-4p-125v" modelIndex="7199" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/hirose-df13-4p-125v_8.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53398-0671_smd-6p-v" modelIndex="7200" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Molex-Picoblade-53398-0671_smd-6p-v_8.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="hirose-df13-8p-125v" modelIndex="7201" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/hirose-df13-8p-125v_5.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="hirose-df13-3p-125h" modelIndex="7202" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/hirose-df13-3p-125h_34.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="intel_edison_minibreakout_fix" modelIndex="7203" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/intel_edison_minibreakout_fix.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="LilyPad-Simple-v25" modelIndex="7204" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/LilyPad-Simple-v25.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M08-SMD-STRAIGHT-ALT" modelIndex="7205" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m08-smd-straight-alt.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="BMP085 Breakout-v13" modelIndex="7206" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/BMP085 Breakout-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="intel-arduino_galileo_gen2" modelIndex="7207" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/intel-arduino_galileo_gen2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M01-SMTRA-256-8-6" modelIndex="7208" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m01-smtra-256-8-6.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="FTDI Basic-v13" modelIndex="7209" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/FTDI Basic-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="TRRS_Breakout-v10" modelIndex="7210" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/TRRS 3.5mm Jack Breakout v10.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-AVR_SPI_PRG_6-2X3_LOCK" modelIndex="7211" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-avr_spi_prg_6-2x3_lock.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Touch_Shield-v11" modelIndex="7212" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Touch_Shield-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino Voice Shield-v16" modelIndex="7213" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Arduino Voice Shield-v16.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_MEGA_2560-Rev3(fix)" modelIndex="7214" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Arduino_MEGA_2560-Rev3(fix).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="HMC5883L_Breakout-v11" modelIndex="7215" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/HMC5883L_Breakout-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arduino_Yun(rev1)_v1" modelIndex="7216" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/arduino_Yun(rev1)_v1.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53261-0319_smd-3p-h" modelIndex="7217" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Molex-Picoblade-53261-0319_smd-3p-h_40.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M02-POLAR_LOCK" modelIndex="7218" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m02-polar_lock.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M06-RA_LOCK" modelIndex="7219" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m06-ra_lock.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M01-SNAP-MALE" modelIndex="7220" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m01-snap-male.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="FTDI Basic-v13_3.3v" modelIndex="7221" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/FTDI Basic-v13_3.3v.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-AVR_SPI_PRG_6-PTH" modelIndex="7222" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-avr_spi_prg_6-pth.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="linino_one_rev1" modelIndex="7223" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/linino_one(rev1).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53398-0771_smd-7p-v" modelIndex="7224" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Molex-Picoblade-53398-0771_smd-7p-v_8.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="WeMos_D1_Mini_Battery_Shield_no_headers" modelIndex="7225" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/WeMos-D1-mini-Battery-Shield-no-headers.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ArduinoBluetoothMatev13" modelIndex="7226" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/ArduinoBluetoothMatev13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_Debugger" modelIndex="7227" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/atlas-sientific_Debugger.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53398-0271_smd-2p-v" modelIndex="7228" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Molex-Picoblade-53398-0271_smd-2p-v_18.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Dagu_DGServo_9g_Pan_and_tilt" modelIndex="7229" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Dagu DGServo 9g (Pan and tilt).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="WeMos_D1_Mini_WS2812B_RGB_Shield_no_headers" modelIndex="7230" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/WeMos-D1-mini-WS2812B-RGB-Shield-no-headers.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ITG-3200-v11" modelIndex="7231" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/ITG-3200-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_Leonardo_Rev3(fix)" modelIndex="7232" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Arduino_Leonardo_Rev3(fix).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M04-SMD" modelIndex="7233" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m04-smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M08-BM08B-SRSS-TB" modelIndex="7234" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m08-bm08b-srss-tb.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M04-SMD2" modelIndex="7235" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m04-smd2.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M06-POLAR_LOCK" modelIndex="7236" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m06-polar_lock.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="JST-VHR-3N" modelIndex="7237" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/JST-VHR-3N.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M12-MACHINE-PIN_LOCK" modelIndex="7238" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m12-machine-pin_lock.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M02-SPRING-2.54-RA" modelIndex="7239" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m02-spring-2.54-ra.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-AVR_SPI_PRG_6-OFFSET_PADS" modelIndex="7240" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-avr_spi_prg_6-offset_pads.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="WiFly_Shield-v17" modelIndex="7241" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/WiFly_Shield-v17.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-AVR_SPI_PRG_6-NS" modelIndex="7242" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-avr_spi_prg_6-ns.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="ludusProtoShield" modelIndex="7243" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/ludusProtoShield.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-AVR_SPI_PROG-" modelIndex="7244" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-avr_spi_prog-.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="WeMos_D1_Mini_Dual_Base_Shield_no_headers" modelIndex="7245" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/WeMos-D1-mini-Dual-Base-Shield-no-headers.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="PWM-Shield-v12" modelIndex="7246" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/PWM-Shield-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-JUMPER-2-OLD-SMD-NC" modelIndex="7247" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-passives-jumper-2-old-smd-nc.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M08-SMD-STRAIGHT" modelIndex="7248" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m08-smd-straight.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53398-0371_smd-3p-v" modelIndex="7249" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Molex-Picoblade-53398-0371_smd-3p-v_10.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M06-1X06-SMD_EDGE_FEMALE" modelIndex="7250" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m06-1x06-smd_edge_female.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="WeMos_D1_Mini_Relay_Shield_V2_no_headers" modelIndex="7251" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/WeMos-D1-mini-Relay-Shield-V2-no-headers.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="96boards_CE_fixed" modelIndex="7252" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/96boards_CE.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M01-SMD-4.5X1.5" modelIndex="7253" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m01-smd-4.5x1.5.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M06-SMD-STRAIGHT-COMBO" modelIndex="7254" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m06-smd-straight-combo.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53261-0219_smd-2p-h" modelIndex="7255" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Molex-Picoblade-53261-0219_smd-2p-h_48.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M02-ROCKER" modelIndex="7256" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m02-rocker.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="74HC595 Shift Reg Breakout-v11" modelIndex="7257" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/74HC595 Shift Reg Breakout-v11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M05-SMD2" modelIndex="7258" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m05-smd2.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_Serial Port Connector" modelIndex="7259" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/atlas-sientific_Serial Port Connector.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_ADK_MEGA_2560-Rev3(fix)" modelIndex="7260" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Arduino_ADK_MEGA_2560-Rev3(fix).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="hirose-df13-2p-125v" modelIndex="7261" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/hirose-df13-2p-125v_50.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="raspberry_pi_zero_rev-1.1" modelIndex="7262" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Raspberry Pi Zero.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M05-SMD" modelIndex="7263" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m05-smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Dagu_DGServo_9g_End_view" modelIndex="7264" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Dagu DGServo 9g (End view).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M02--JST-2MM-SMT" modelIndex="7265" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m02--jst-2mm-smt.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Joystick_Shield-v14" modelIndex="7266" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Joystick_Shield-v14.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_Micro_Rev03(fix)" modelIndex="7267" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Arduino_Micro_Rev03(fix).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Passives-JUMPER-2-SMD-NO-NS" modelIndex="7268" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-passives-jumper-2-smd-no-ns.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Ardumoto v13" modelIndex="7269" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Ardumoto v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="mega_pro-v13" modelIndex="7270" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/mega_pro-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M02-4UCON-15767" modelIndex="7271" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m02-4ucon-15767.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="xbeeshield-v13" modelIndex="7272" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/xbeeshield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="microSD_Shield-v13" modelIndex="7273" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/microSD_Shield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M03-SMD" modelIndex="7274" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m03-smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53398-0571_smd-5p-v" modelIndex="7275" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Molex-Picoblade-53398-0571_smd-5p-v_8.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="hirose-df13-3p-125v" modelIndex="7276" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/hirose-df13-3p-125v_42.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="MP3 Shield-v13" modelIndex="7277" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/MP3 Shield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Dagu_DGServo_9g_header_male" modelIndex="7278" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Dagu DGServo 9g header (male).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Rotoshield-1.0a" modelIndex="7279" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Rotoshield-1.0a.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M10X2-SPECIAL" modelIndex="7280" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m10x2-special.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="intel-arduino_galileo" modelIndex="7281" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/intel-arduino_galileo.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="arduino_uno(rev3)-icsp" modelIndex="7282" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/arduino_uno(rev3)-icsp.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Trackballer-v12" modelIndex="7283" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Trackballer-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53261-0719_smd-7p-h" modelIndex="7284" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Molex-Picoblade-53261-0719_smd-7p-h_8.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M01-SNAP-FEMALE" modelIndex="7285" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m01-snap-female.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M06-SMDF" modelIndex="7286" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m06-smdf.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M06-SMD-STRAIGHT-ALT" modelIndex="7287" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m06-smd-straight-alt.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="jlpcb-128" modelIndex="7288" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/jlpcb-128.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="polarizedheader4pin_0.156in" modelIndex="7289" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/polarizedheader4pin_0.156in.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M03-SCREW_LOCK" modelIndex="7290" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m03-screw_lock.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M06-EM406" modelIndex="7291" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m06-em406.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="cb9c6041c0b15c9c1a63560527d7693a" modelIndex="7292" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Peppermill Power Board.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="WeMos_D1_mini_male_headers_above_fix" modelIndex="7293" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/WeMos-D1-mini-male-headers-above_fixed.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-AVR_MINI_PROG-SMD" modelIndex="7294" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-avr_mini_prog-smd.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M01-OFFSET" modelIndex="7295" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m01-offset.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-AVR_SPI_PROG2-SMD" modelIndex="7296" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-avr_spi_prog2-smd.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="hirose-df13-5p-125v" modelIndex="7297" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/hirose-df13-5p-125v_25.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M02-JST-PTH-2-KIT" modelIndex="7298" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m02-jst-pth-2-kit.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M02-JST-PTH-2" modelIndex="7299" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m02-jst-pth-2.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="WeMos_D1_Mini_Protoboard_Shield_no_headers" modelIndex="7300" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/WeMos-D1-mini-Protoboard-Shield-no-headers.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="5DOF-v25" modelIndex="7301" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/5DOF-v25.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="WeMos_D1_Mini_1_Button_Shield_no_headers" modelIndex="7302" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/WeMos-D1-mini-1-Button-Shield-no-headers.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M03-POLAR_LOCK" modelIndex="7303" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m03-polar_lock.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Dagu_DGServo_9g_header_connector_female" modelIndex="7304" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Dagu DGServo 9g header connector (female).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="intel-arduino_galileo_gen2-(simple)" modelIndex="7305" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/intel-arduino_galileo_gen2-simple.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53398-0871_smd-8p-v" modelIndex="7306" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Molex-Picoblade-53398-0871_smd-8p-v_1.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Arduino_Ethernet" modelIndex="7307" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Arduino_Ethernet.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="hirose-df13-6p-125v" modelIndex="7308" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/hirose-df13-6p-125v_17.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Dagu_DGServo_9g_Top_view" modelIndex="7309" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Dagu DGServo 9g (Top view).fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="GPSShield-v15" modelIndex="7310" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/GPSShield-v15.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="cellular shield-v12" modelIndex="7311" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/cellular shield-v12.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-Connectors-M04-JST-PTH" modelIndex="7312" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-connectors-m04-jst-pth.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="atlas-sientific_RJ-11" modelIndex="7313" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/atlas-sientific_RJ-11.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="SparkFun-RF-RF24G-" modelIndex="7314" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/sparkfun-rf-rf24g-.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="WeMos_D1_Mini_Relay_Shield_no_headers" modelIndex="7315" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/WeMos-D1-mini-Relay-Shield-no-headers.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="Molex-Picoblade-53261-0519_smd-5p-h" modelIndex="7316" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/Molex-Picoblade-53261-0519_smd-5p-h_24.fzp" flippedSMD="true">
+            <views/>
+        </instance>
+        <instance moduleIdRef="PowerDriver-Shield-v13" modelIndex="7317" path="D:/Util/fritzing.0.9.3b.64.pc/fritzing-parts/core/PowerDriver-Shield-v13.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="mystery_part_sip_3_100mil" modelIndex="7318" path="C:/Users/SJL/AppData/Roaming/Fritzing/partfactory/fe27659ae6f670201fe91f1bd2749aea/core/mystery_part_sip_3_100mil.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="generic_female_pin_header_2_100mil" modelIndex="7319" path="C:/Users/SJL/AppData/Roaming/Fritzing/partfactory/fe27659ae6f670201fe91f1bd2749aea/core/generic_female_pin_header_2_100mil.fzp">
+            <views/>
+        </instance>
+        <instance moduleIdRef="generic_shrouded_pin_header_10_100mil" modelIndex="7320" path="C:/Users/SJL/AppData/Roaming/Fritzing/partfactory/fe27659ae6f670201fe91f1bd2749aea/core/generic_shrouded_pin_header_10_100mil.fzp">
+            <views/>
+        </instance>
+    </instances>
+</module>
